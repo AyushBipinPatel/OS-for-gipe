@@ -1,0 +1,87 @@
+---
+title: "Adapting to Open Source options"
+author: "Ayush Patel"
+institute: "Gokhale Institute of Politics and Economics"
+format: revealjs
+width: 1200
+height: 700
+editor: source
+---
+
+## What is FOSS? {.center}
+
+__Free and Open Source Software__
+
+  - Free to use (not always, but is always true about the source code)
+  - The  provider doesnt care about your purpose
+  - Access to _source code_ for use, edit and modification
+  - Allows for contribution for development
+  
+## To open source or not to open source {.scrollable}
+
+::::{.columns}
+
+:::{.column}
+__Proprietary Software__
+
+  - These are _marketed_ as easy to use. Few actually are
+  - Costly, even more so for enterprise solutions
+  - Might have to deal with after sales support. This should frighten you
+  - **Reproducibility** takes a hit
+  - **Access** becomes more dearer for resource poor
+  - One proprietary software hates other proprietary softwares
+
+:::
+
+
+:::{.column}
+
+__FOSS__
+
+  - Does have a learning curve, but allows ability to customize. Imagination is the only limit.
+  - Is **FREE** (I know I said it before)
+  - Excellent **Reproducibility**, helps with spread of knowledge and moves the needle when it comes to research
+  - Anybody can **Access**
+  - Amazing learning and support communities
+  - FOSS are friendly to one another
+
+:::
+::::
+
+## GMPI Data Bank - A transition perspective
+
+*A shift from Tableau to a Shiny Web Application.*
+
+```{=html}
+<iframe width="1200" height="500" src="https://trainingidn.shinyapps.io/OPHIDataBankGlobalComparison/" title="Quarto Documentation"></iframe>
+```
+
+## Bihar Corona - A quick implementation 
+
+*Goal was to track delivery of welfare benefits during corona across Rural Bihar. At Village ward Level.*
+
+
+  - Daily phone surveys of elected ward members and candidates
+  - Implementation of a data pipe line that takes daily survey data and visualizes results on a web application
+  
+**Why would tableau be a poor choice in this case?**
+
+## Revevant Examples
+
+  - [Interactive Data Network, University of Oxford](https://idn.it.ox.ac.uk/home)
+  - [Data Carpentry](https://datacarpentry.org)
+  - [Harsh Nisar](https://harshnisar.github.io) and team at MoRD
+  - The [DiD package](https://bcallaway11.github.io/did/) in R, after the multiple time periods paper in 2021.
+  
+  
+## Quesitons {.center}
+
+
+  
+  
+  
+  
+  
+  
+  
+  
